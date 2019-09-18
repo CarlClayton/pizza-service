@@ -1,2 +1,2 @@
-# pizza-service1
+# pizza-service
 pizza microservice
