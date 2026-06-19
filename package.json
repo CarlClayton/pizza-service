@@ -4,7 +4,7 @@
   "description": "pizza microservice",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.22.1"
+    "express": "^4.22.2"
   },
   "devDependencies": {},
   "scripts": {
